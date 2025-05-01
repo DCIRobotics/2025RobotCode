@@ -2,7 +2,7 @@
 // Open Source Software; you can modify and/or share it under the terms of
 // the WPILib BSD license file in the root directory of this project.
 
-// hi I wrote this on 5/1- Donovan
+// nothing can be commented here (joking! it's for the bit!)
 package frc.robot;
 
 import edu.wpi.first.math.geometry.Translation2d;
