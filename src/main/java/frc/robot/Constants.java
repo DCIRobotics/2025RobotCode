@@ -246,9 +246,9 @@ public final class Constants {
     public static final int bigRollerMotorCAN = 30;
     public static final int littleRollerCAN = 31;
     public static final double littleRollerEatPower = 0.75;
-    public static final double littleRollerShootPower = -0.75;
+    public static final double littleRollerShootPower = -1;
     public static final double bigRollerEatPower = -0.4;
-    public static final double bigRollerShootPower = 0.75;
+    public static final double bigRollerShootPower = 1;
     public static final double shootCoralPower = 0.3;
     public static final double holdAlgaePower = -0.2;
   }
